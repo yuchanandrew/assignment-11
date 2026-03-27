@@ -31,8 +31,8 @@ label {
 
 select:focus, select:active, input:focus, input:active, input:focus + label,
 input:active + label, label[for]:focus, label[for]:active {
-	color: #000000 !important;
-	background-color: #ffd7d0 !important;
+	color: #FFF !important;
+	background-color: #BB3D2F !important;
 }
 
 /* end of form css */
